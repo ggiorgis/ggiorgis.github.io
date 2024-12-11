@@ -1,2 +1,2 @@
-# ggiorgis.github.io
+# Giovanni Giorgis Personal page
 Giovanni Giorgis personal page
