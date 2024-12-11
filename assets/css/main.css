@@ -151,7 +151,7 @@ input, select, textarea {
 		}
 
 /* edit: added section image */ 
-
+/*
 	.image {
 		border-radius: 4px;
 		display: inline-block;
@@ -172,7 +172,7 @@ input, select, textarea {
 
 		.image img {
 			border-radius: 4px;
-			/* edit: font color */
+			/* edit: font color 
 			border: 3px solid #000;
 			display: block;
 		}
@@ -206,6 +206,15 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+*/
+.image img {
+    border-radius: 50%; /* Makes the image circular */
+    border: 3px solid #000; /* Retains the black border */
+    display: block;
+    width: 150px; /* Set a fixed width */
+    height: 150px; /* Set height equal to width */
+    object-fit: cover; /* Ensures the image scales proportionally within the circle */
+}
 
 /* wrapper */
 
