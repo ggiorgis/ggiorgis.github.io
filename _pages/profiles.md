@@ -1,4 +1,6 @@
 <!-- ---
+THIS IS THE PAGE YOU USE TO LIST THE PEOPLE OF THE LAB
+
 layout: profiles
 permalink: /people/
 title: people
