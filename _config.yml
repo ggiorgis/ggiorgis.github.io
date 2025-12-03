@@ -7,13 +7,13 @@ first_name: Giovanni
 middle_name: Michele
 last_name: Giorgis
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Reach out to me at giovanni.giorgis@ctta.igrothendieck.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: giovanni-giorgis, giorgis, academic-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 𝑮 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -47,10 +47,10 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -627,6 +627,8 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
+  - data: resources
+    json: assets/json/resources.json
 
 jsonresume:
   - basics
