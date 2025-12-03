@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Grothendieck Institute.
 
 profile:
   align: right
@@ -27,8 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a `Research Associate` at the [Grothendieck Institute](https://igrothendieck.org/en/), working on the project Implementing Structural and Toposic Ideas into Artificial Intelligence. I am supervised from [Laurant Lafforgue](), [Olivia Caramello]() and [Aurelian Sagnier](). I am also affiliated with the `Lagrange Mathematics and Computing Research Center`, where I spend most of my research time. My work aims to explore how tools from category theory, topos theory, and structural mathematics can enrich the foundations of machine learning and provide new ways to think about abstraction, reasoning, and representation.
+I am a **Research Associate** at the [Grothendieck Institute](https://igrothendieck.org/en/), working on the project **"Implementing Structural and Toposic Ideas into Artificial Intelligence"**. My supervisor at the Grothendieck Institute is [Olivia Caramello](https://www.oliviacaramello.com/). I am also affiliated with, and regularly work at, the **Lagrange Mathematics and Computing Research Center**, where I spend most of my research time. There, I am supervised by [Laurent Lafforgue](https://www.laurentlafforgue.org/) and [Aurelian Sagnier](https://math.jhu.edu/~asagnie1/).
 
-I completed my Master’s degree in Mathematics at [ETH Zurich](https://ethz.ch/en.html), where I wrote my thesis under the supervision of [Helmut Bölcskei](https://www.mins.ee.ethz.ch/index.html). Before that, I obtained my Bachelor’s degree in Mathematics at the `University of Turin`, completing my thesis with [Susanna Terracini](). During my undergraduate studies, I was also an Honorary Allievo at the [Collegio Carlo Alberto](), where I earned a diploma in `Applied Mathematics and Economics`. Prior to my current position, I worked as a `Research Assistant` at the `KOF Lab` at `ETH Zurich`.
+My work aims to explore how tools from category theory, topos theory, and structural mathematics can enrich the foundations of machine learning and provide new ways to think about abstraction, reasoning, and representation.
 
-My research interests lie at the intersection of mathematics and machine learning. I am fascinated by the fundamental questions of learning and intelligence, how systems represent structure, acquire knowledge, and reason about the world, and I am motivated by the idea that deeper mathematical frameworks may provide new answers to these questions.
+I completed my Master’s degree in Mathematics at [ETH Zurich](https://ethz.ch/en.html), where I wrote my thesis at the [Chair for Mathematical Information Science](https://www.mins.ee.ethz.ch/index.html) under the supervision of [Helmut Bölcskei](https://www.mins.ee.ethz.ch/people/show/boelcskei).
+
+Before that, I obtained my Bachelor’s degree in Mathematics at the **University of Turin**, completing my thesis under the supervision of [Susanna Terracini](https://sites.google.com/site/susannaterracini/). During my undergraduate studies, I was also an Honorary *Allievo* at the [Collegio Carlo Alberto](https://www.carloalberto.org/), where I earned a diploma in **Economics, Statistics, and Applied Mathematics**. Prior to my current position, I worked as a **Graduate Research Assistant** at the [KOF Lab](https://kof.ethz.ch/en/) at ETH Zurich.
+
+My research interests lie at the intersection of mathematics and machine learning. I am fascinated by the fundamental questions of learning and intelligence, how systems represent structure, acquire knowledge, and reason about the world. I am motivated by the idea that deeper mathematical frameworks may provide new answers to these questions.
+
+In general, I am a very curious person who really enjoys learning, discovering, and being challenged.
+ 
