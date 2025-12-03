@@ -9,47 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "CV",
           description: "A brief overview of my CV; for the full version, please refer to the PDF.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "publications by categories in reversed chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "Projects I’ve worked on—research, technical, and personal—some succeeded, some didn’t, all contributing to my learning journey.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-resources",
-          title: "Resources",
-          description: "A brief overview of the resources I like to follow and use; please if you think there are some you like and that are missing from the list, write me an email.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resources/";
-          },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Talks or course that I carried over.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
