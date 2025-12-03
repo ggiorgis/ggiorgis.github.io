@@ -172,6 +172,11 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _pages/blog.md # Include for the blog page and add a couple of posts to it
+  - _pages/publications.md # Includes with the 2 important publications I want to show
+  - _pages/projects.md # Includes adding all my private projects I would like to show
+  - _pages/resources.md # Includes with all the nice resources I like to share
+  - _pages/teaching.md # Includes with the talks I gave
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
