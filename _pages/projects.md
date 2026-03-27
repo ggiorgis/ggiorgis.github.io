@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Projects I’ve worked on—research, technical, and personal—some succeeded, some didn’t, all contributing to my learning journey.
-nav: true
+nav: false
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false

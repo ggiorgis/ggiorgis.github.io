@@ -16,7 +16,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 - raybans
 - messenger bag
 
-#### Check List
+<!-- #### Check List -->
 
 - [x] Brush Teeth
 - [ ] Put on socks
